@@ -1,0 +1,26 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+}
+
+.counter-container {
+    display: flex;
+    font-size: 3em;
+}
+
+.time {
+    min-width: 50px;
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+    margin: 0 5px;
+}
+
+.separator {
+    font-size: 1.5em;
+}
+
+
+/* Stil özelleştirmeleri buraya eklenebilir */
+
